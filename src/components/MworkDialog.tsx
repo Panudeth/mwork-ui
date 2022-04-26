@@ -11,8 +11,7 @@ import {
 } from '@material-ui/core'
 import { makeStyles, Theme } from '@material-ui/core/styles'
 import { TransitionProps } from '@material-ui/core/transitions/transition'
-import { ArrowBackIos } from '@material-ui/icons'
-import { Close } from 'mdi-material-ui'
+import { ArrowBackIos,Close } from '@material-ui/icons'
 import React, { forwardRef } from 'react'
 
 const useStyles = makeStyles((theme: Theme) => ({
